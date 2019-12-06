@@ -1,6 +1,7 @@
 Commonly Used Git Commands and their explanations
 
 1) CREATE A NEW GITHUB PROJECT
+		--> you cannot create github project from local laptop.
+		--> one way of doing that is using hub.
 		
-		
-2) I will update this		
+	
