@@ -20,14 +20,4 @@ Every machine has its own local repo. Dev make change in the the local repo and 
 		--> you cannot create github repository from local laptop.
 		--> one way of doing that is using hub.
 		
-2) Steps to create a new repository
-	a) create a new repository in github. Eg : MyToolSet
-	b) create a new eclipse project
-	c) do 
-		"git init" inside that project
-	d) do
-		"git add ." to add all files
-	e) do 
-		"git commit "
-		
 	
