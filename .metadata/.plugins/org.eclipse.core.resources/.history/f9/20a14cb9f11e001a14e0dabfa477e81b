@@ -1,0 +1,33 @@
+Commonly Used Git Commands and their explanations
+
+Features:
+
+** Git is a distributed version control system
+** Git is Source code management tool
+** Centralized version system vs Distributed version system
+
+Centralized:
+One common server to put in the code. All developers put code in one server.
+
+
+Distributed:
+Every machine has its own local repo. Dev make change in the the local repo and then push it to the server.
+
+** Trunk based development (Branches)
+
+
+1) CREATE A NEW GITHUB REPOSITORY
+		--> you cannot create github repository from local laptop.
+		--> one way of doing that is using hub.
+		
+2) Steps to create a new repository
+	a) create a new repository in github. Eg : MyToolSet
+	b) create a new eclipse project
+	c) do 
+		"git init" inside that project
+	d) do
+		"git add ." to add all files
+	e) do 
+		"git commit "
+		
+	
