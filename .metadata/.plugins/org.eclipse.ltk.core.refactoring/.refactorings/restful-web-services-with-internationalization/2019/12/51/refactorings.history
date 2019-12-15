@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;restful-web-services-with-internationalization/src/main/resources/message_us.properties&apos; to &apos;message.properties&apos;" description="Rename resource &apos;message_us.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/message_us.properties" name="message.properties" stamp="1576419416562" updateReferences="true"/>
+</session>

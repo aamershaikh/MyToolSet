@@ -1,0 +1,9 @@
+HATEOAS 
+
+1) HATEOAS is an acronym for Hypermedia As The Engine Of Application State. Even after expanding that for you,
+ it still might not mean a lot. HATEOAS is an extra level upon REST and is used to present information about 
+ a REST API to a client, allowing for a better understanding of the API without the need to bring up the 
+ specification or documentation. This is done by including links in a returned response and using only these 
+ links to further communicate with the server.
+ 
+2) In the response for getOneUser, we are sending a hyperlink to getAllUsers.
