@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;restful-web-services&apos;" deleteContents="false" description="Delete resource &apos;restful-web-services&apos;" element1="/restful-web-services" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1576385136668"/>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;restful-web-services&apos;" deleteContents="false" description="Delete resource &apos;restful-web-services&apos;" element1="/restful-web-services" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1576385136668"/>&#x0A;<refactoring comment="Delete resource &apos;restful-web-services-with-swaggerdocumentation&apos;" deleteContents="true" description="Delete resource &apos;restful-web-services-with-swaggerdocumentation&apos;" element1="/restful-web-services-with-swaggerdocumentation" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1576425410819"/>
 </session>

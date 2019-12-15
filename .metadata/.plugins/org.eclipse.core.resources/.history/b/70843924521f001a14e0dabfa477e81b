@@ -1,0 +1,5 @@
+package com.aamer.rest.webservices.restfulwebservices.swaggerconfig;
+
+public class SwaggerConfig {
+
+}

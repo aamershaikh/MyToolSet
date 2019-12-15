@@ -1475,3 +1475,257 @@ org.eclipse.core.runtime.CoreException: Launch configuration RestfulWebServicesA
 2019-12-15 19:46:56,916 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-12-15 19:46:56,918 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-12-15 19:46:56,919 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-internationalization/src/test/resources
+2019-12-15 21:10:15,170 [Worker-385] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/pom.xml.
+2019-12-15 21:10:15,868 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:10:15,868 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:10:15,869 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-15 21:10:15,873 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:10:15,873 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:10:17,416 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:10:17,416 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:10:17,418 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-15 21:10:17,421 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:10:17,421 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:12:07,422 [Worker-383] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/pom.xml.
+2019-12-15 21:12:08,489 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.6.1/springfox-swagger2-2.6.1.pom
+2019-12-15 21:12:08,642 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.6.1/springfox-swagger2-2.6.1.pom
+2019-12-15 21:12:08,790 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10.pom
+2019-12-15 21:12:08,933 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10.pom
+2019-12-15 21:12:09,083 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-project/1.5.10/swagger-project-1.5.10.pom
+2019-12-15 21:12:09,364 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-project/1.5.10/swagger-project-1.5.10.pom
+2019-12-15 21:12:09,517 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2019-12-15 21:12:09,663 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2019-12-15 21:12:09,804 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.10/swagger-models-1.5.10.pom
+2019-12-15 21:12:09,958 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.10/swagger-models-1.5.10.pom
+2019-12-15 21:12:10,108 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.6.1/springfox-spi-2.6.1.pom
+2019-12-15 21:12:10,277 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.6.1/springfox-spi-2.6.1.pom
+2019-12-15 21:12:10,423 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.6.1/springfox-core-2.6.1.pom
+2019-12-15 21:12:10,578 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.6.1/springfox-core-2.6.1.pom
+2019-12-15 21:12:10,734 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.pom
+2019-12-15 21:12:10,877 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.pom
+2019-12-15 21:12:11,036 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
+2019-12-15 21:12:11,184 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
+2019-12-15 21:12:11,350 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2019-12-15 21:12:11,493 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2019-12-15 21:12:11,630 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2019-12-15 21:12:11,774 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2019-12-15 21:12:11,937 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.pom
+2019-12-15 21:12:12,076 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.pom
+2019-12-15 21:12:12,220 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.6.1/springfox-schema-2.6.1.pom
+2019-12-15 21:12:12,364 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.6.1/springfox-schema-2.6.1.pom
+2019-12-15 21:12:12,510 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.6.1/springfox-swagger-common-2.6.1.pom
+2019-12-15 21:12:12,661 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.6.1/springfox-swagger-common-2.6.1.pom
+2019-12-15 21:12:12,805 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.pom
+2019-12-15 21:12:12,953 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.pom
+2019-12-15 21:12:13,102 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.0.0.Final/mapstruct-1.0.0.Final.pom
+2019-12-15 21:12:13,245 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.0.0.Final/mapstruct-1.0.0.Final.pom
+2019-12-15 21:12:13,398 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.0.0.Final/mapstruct-parent-1.0.0.Final.pom
+2019-12-15 21:12:13,539 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.0.0.Final/mapstruct-parent-1.0.0.Final.pom
+2019-12-15 21:12:13,682 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2019-12-15 21:12:13,830 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2019-12-15 21:12:14,014 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2019-12-15 21:12:14,162 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2019-12-15 21:12:14,307 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2019-12-15 21:12:14,459 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2019-12-15 21:12:14,596 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2019-12-15 21:12:14,742 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2019-12-15 21:12:14,880 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.6.1/springfox-swagger-ui-2.6.1.pom
+2019-12-15 21:12:15,027 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.6.1/springfox-swagger-ui-2.6.1.pom
+2019-12-15 21:12:15,235 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.6.1/springfox-swagger2-2.6.1.jar
+2019-12-15 21:12:15,696 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.6.1/springfox-swagger2-2.6.1.jar
+2019-12-15 21:12:15,858 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10.jar
+2019-12-15 21:12:16,056 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10.jar
+2019-12-15 21:12:16,194 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.10/swagger-models-1.5.10.jar
+2019-12-15 21:12:16,619 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.10/swagger-models-1.5.10.jar
+2019-12-15 21:12:16,772 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.6.1/springfox-spi-2.6.1.jar
+2019-12-15 21:12:16,923 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.6.1/springfox-spi-2.6.1.jar
+2019-12-15 21:12:17,080 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.6.1/springfox-core-2.6.1.jar
+2019-12-15 21:12:17,393 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.6.1/springfox-core-2.6.1.jar
+2019-12-15 21:12:17,543 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.6.1/springfox-schema-2.6.1.jar
+2019-12-15 21:12:17,844 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.6.1/springfox-schema-2.6.1.jar
+2019-12-15 21:12:18,002 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.6.1/springfox-swagger-common-2.6.1.jar
+2019-12-15 21:12:18,285 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.6.1/springfox-swagger-common-2.6.1.jar
+2019-12-15 21:12:18,429 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar
+2019-12-15 21:12:18,857 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar
+2019-12-15 21:12:19,002 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
+2019-12-15 21:12:33,086 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
+2019-12-15 21:12:33,230 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2019-12-15 21:12:33,537 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2019-12-15 21:12:33,690 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar
+2019-12-15 21:12:33,845 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar
+2019-12-15 21:12:34,343 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.0.0.Final/mapstruct-1.0.0.Final.jar
+2019-12-15 21:12:34,508 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.0.0.Final/mapstruct-1.0.0.Final.jar
+2019-12-15 21:12:34,661 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.6.1/springfox-swagger-ui-2.6.1.jar
+2019-12-15 21:12:38,497 [Worker-383] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.6.1/springfox-swagger-ui-2.6.1.jar
+2019-12-15 21:12:38,737 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:12:38,737 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:12:38,737 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:12:38,739 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:12:38,739 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:12:40,306 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:12:40,306 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:12:40,307 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-15 21:12:40,310 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:12:40,310 [Worker-388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:13:51,566 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:13:51,566 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:13:51,567 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-15 21:13:51,568 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:13:51,569 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:17:04,535 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:17:04,536 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:17:04,537 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-15 21:17:04,539 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:17:04,539 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:20:16,275 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:20:16,276 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:20:16,276 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:20:16,278 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:20:16,278 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:21:40,648 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:21:40,648 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:21:40,649 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:21:40,652 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:21:40,652 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:22:34,956 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:22:34,957 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:22:34,958 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-12-15 21:22:34,968 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:22:34,968 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:26:51,791 [Worker-387] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration RestfulWebServicesApplication (3) references non-existing project restful-web-services-with-swaggerdocumentation.
+org.eclipse.core.runtime.CoreException: Launch configuration RestfulWebServicesApplication (3) references non-existing project restful-web-services-with-swaggerdocumentation.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-12-15 21:26:51,793 [Worker-387] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration RestfulWebServicesApplication (3) references non-existing project restful-web-services-with-swaggerdocumentation.
+org.eclipse.core.runtime.CoreException: Launch configuration RestfulWebServicesApplication (3) references non-existing project restful-web-services-with-swaggerdocumentation.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-12-15 21:26:51,800 [Worker-387] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration RestfulWebServicesApplication (3) references non-existing project restful-web-services-with-swaggerdocumentation.
+org.eclipse.core.runtime.CoreException: Launch configuration RestfulWebServicesApplication (3) references non-existing project restful-web-services-with-swaggerdocumentation.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2019-12-15 21:27:22,840 [Worker-352] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/pom.xml.
+2019-12-15 21:27:23,209 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:27:23,209 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:27:23,210 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:27:23,212 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:27:23,212 [Worker-352] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:27:24,880 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:27:24,880 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:27:24,881 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:27:24,883 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:27:24,884 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:30:57,080 [Worker-385] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/pom.xml.
+2019-12-15 21:30:57,441 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:30:57,441 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:30:57,441 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:30:57,443 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:30:57,443 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:30:59,004 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:30:59,005 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:30:59,006 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:30:59,007 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:30:59,007 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:31:18,976 [Worker-391] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-15 21:31:19,756 [Worker-391] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/pom.xml.
+2019-12-15 21:31:20,265 [Worker-391] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/pom.xml.
+2019-12-15 21:31:20,526 [Worker-391] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-internationalization/pom.xml.
+2019-12-15 21:31:20,749 [Worker-391] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/pom.xml.
+2019-12-15 21:31:21,102 [Worker-391] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restful-web-services-with-swaggerdocumentation/src/main/java
+2019-12-15 21:31:21,102 [Worker-391] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /restful-web-services-with-swaggerdocumentation/src/main/resources
+2019-12-15 21:31:21,102 [Worker-391] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /restful-web-services-with-swaggerdocumentation/src/main/resources
+2019-12-15 21:31:21,103 [Worker-391] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restful-web-services-with-swaggerdocumentation/src/test/java
+2019-12-15 21:31:21,288 [Worker-391] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-12-15 21:31:21,814 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:21,818 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:31:21,818 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:31:21,821 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:21,821 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/src/test/resources
+2019-12-15 21:31:22,208 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:22,208 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:31:22,208 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:31:22,210 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:22,210 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 21:31:22,662 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:22,662 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:31:22,663 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:31:22,665 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:22,666 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-internationalization/src/test/resources
+2019-12-15 21:31:23,215 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:23,215 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:31:23,232 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:31:23,234 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:31:23,234 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:32:27,328 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:32:27,328 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:32:27,329 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:32:27,331 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:32:27,331 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
+2019-12-15 21:33:58,397 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:33:58,398 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 21:33:58,398 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 21:33:58,400 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 21:33:58,400 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-swaggerdocumentation/src/test/resources
