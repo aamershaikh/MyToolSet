@@ -1,0 +1,15 @@
+package com.aamer.rest.webservices.restfulwebservices.bean;
+
+public class HelloWorldBean {
+	
+	private String message;
+	
+	public HelloWorldBean() {
+		
+	}
+	
+	
+	
+	
+
+}

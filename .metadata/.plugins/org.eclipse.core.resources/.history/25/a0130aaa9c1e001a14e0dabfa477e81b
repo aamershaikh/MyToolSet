@@ -1,0 +1,13 @@
+package com.aamer.rest.webservices.restfulwebservices.exception;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+@ControllerAdvice  	// To make this applicable for available Controllers in the application
+@RestController
+public class CustomizedExceptionHandler extends ResponseEntityExceptionHandler {
+
+	
+	
+}

@@ -1,0 +1,5 @@
+package com.aamer.rest.webservices.restfulwebservices.controller;
+
+public class UserController {
+
+}

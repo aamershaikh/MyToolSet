@@ -1,0 +1,23 @@
+Rest is representational state transfer. It is an architectural style.
+
+Restful Web services : Consider a sample social media application
+
+1 User ---> * posts
+
+
+operations performed : 
+
+-- Retrieve all users : GET /users
+
+-- Create a user : POST /users
+
+-- Retrieve one user : GET /users/{userid}
+
+-- Delete a user : DELETE /users/{userid}
+
+
+-- Retrieve all posts for a user : GET /users/{userid}/posts
+
+-- create a post for a user : POST /users/{userid}/posts
+
+-- retrieve details for a post : GET /users/{userid}/posts/{postid}

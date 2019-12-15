@@ -1,0 +1,49 @@
+package com.aamer.rest.webservices.restfulwebservices.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
+
+import com.aamer.rest.webservices.restfulwebservices.bean.User;
+import com.aamer.rest.webservices.restfulwebservices.service.UserService;
+
+@RestController
+public class UserController {
+	
+	@Autowired
+	private UserService userService;
+
+	//getAllUsers
+	@GetMapping(path = "/getAllUsers")
+	public List<User> retrieveAllUsers(){
+		return userService.getAllUsers();
+	}
+	
+	//getOneUsers
+	@GetMapping(path="/getOneUser/{id}")
+	public User getOneUser(@PathVariable int id) {
+		return userService.getOneUser(id);
+	}
+	
+	//saveUser and return a response entity as CREATED
+	@PostMapping(path="/saveUser")
+	public void getOneUser(@RequestBody User user) {
+		
+		User savedUser = userService.addUser(user);
+		
+		// to return a response entity as CREATED
+		
+		ServletUriComponentsBuilder.fromCurrentRequest().			// to current request
+		path("/{id}").												// add {id} and
+		buildAndExpand(savedUser.getUserid()).						// append the userId that is returned as a response
+		toUri();													// to URI
+		
+	}
+	
+}
