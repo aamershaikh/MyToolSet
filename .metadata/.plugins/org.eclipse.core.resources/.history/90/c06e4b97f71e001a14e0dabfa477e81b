@@ -3,8 +3,6 @@ package com.aamer.rest.webservices.restfulwebservices.controller;
 import java.net.URI;
 import java.util.List;
 
-import javax.validation.Valid;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -47,7 +45,7 @@ public class UserController {
 	// Normal response of save operation is 200. It is a good practice to return
 	// 201 (CREATED) when a new resource is added.
 	@PostMapping(path = "/users")
-	public ResponseEntity<User> getOneUser(@Valid @RequestBody User user) {
+	public ResponseEntity<User> getOneUser(@RequestBody User user) {
 
 		// save the user
 		User savedUser = userService.addUser(user);
