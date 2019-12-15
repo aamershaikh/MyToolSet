@@ -1250,3 +1250,89 @@ org.eclipse.core.runtime.CoreException: Launch configuration RestfulWebServicesA
 2019-12-15 10:35:22,713 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-12-15 10:35:22,715 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-12-15 10:35:22,715 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/src/test/resources
+2019-12-15 10:58:41,108 [Worker-273] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/pom.xml.
+2019-12-15 10:58:41,526 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 10:58:41,526 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 10:58:41,527 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 10:58:41,529 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 10:58:41,529 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 10:58:43,218 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 10:58:43,219 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 10:58:43,220 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 10:58:43,222 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 10:58:43,222 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 11:01:42,705 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:01:42,705 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:01:42,705 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:01:42,707 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:01:42,707 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 11:02:43,238 [Worker-282] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/pom.xml.
+2019-12-15 11:02:44,290 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.2.2.RELEASE/spring-boot-starter-hateoas-2.2.2.RELEASE.pom
+2019-12-15 11:02:44,456 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.2.2.RELEASE/spring-boot-starter-hateoas-2.2.2.RELEASE.pom
+2019-12-15 11:02:44,604 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.pom
+2019-12-15 11:02:44,934 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.pom
+2019-12-15 11:02:45,085 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Dysprosium-SR1/reactor-bom-Dysprosium-SR1.pom
+2019-12-15 11:02:45,229 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Dysprosium-SR1/reactor-bom-Dysprosium-SR1.pom
+2019-12-15 11:02:45,373 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.10.0/jackson-bom-2.10.0.pom
+2019-12-15 11:02:45,521 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.10.0/jackson-bom-2.10.0.pom
+2019-12-15 11:02:45,665 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.pom
+2019-12-15 11:02:45,816 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.pom
+2019-12-15 11:02:45,959 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/2.0.0.RELEASE/spring-plugin-2.0.0.RELEASE.pom
+2019-12-15 11:02:46,119 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/2.0.0.RELEASE/spring-plugin-2.0.0.RELEASE.pom
+2019-12-15 11:02:46,374 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.2.2.RELEASE/spring-boot-starter-hateoas-2.2.2.RELEASE.jar
+2019-12-15 11:02:46,552 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.2.2.RELEASE/spring-boot-starter-hateoas-2.2.2.RELEASE.jar
+2019-12-15 11:02:46,750 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.jar
+2019-12-15 11:02:48,080 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.jar
+2019-12-15 11:02:48,214 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.jar
+2019-12-15 11:02:48,647 [Worker-282] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.jar
+2019-12-15 11:02:48,882 [Worker-282] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aamer.rest.webservices:restful-web-services:0.0.1-SNAPSHOT @ /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/pom.xml.
+2019-12-15 11:02:49,128 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:02:49,128 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:02:49,129 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:02:49,131 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:02:49,132 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 11:02:50,727 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:02:50,728 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:02:50,729 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:02:50,731 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:02:50,731 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/src/test/resources
+2019-12-15 11:02:51,377 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:02:51,378 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:02:51,380 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:02:51,382 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:02:51,382 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 11:05:21,055 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:05:21,056 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:05:21,057 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:05:21,061 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:05:21,061 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/src/test/resources
+2019-12-15 11:06:23,361 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:06:23,361 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:06:23,362 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:06:23,365 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:06:23,365 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/src/test/resources
+2019-12-15 11:06:28,969 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:06:28,969 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:06:28,970 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:06:28,972 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:06:28,972 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services/src/test/resources
+2019-12-15 11:08:26,141 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:08:26,141 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:08:26,142 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:08:26,144 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:08:26,144 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 11:13:10,077 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:13:10,077 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:13:10,078 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:13:10,079 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:13:10,079 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 11:13:19,525 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:13:19,526 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:13:19,529 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:13:19,532 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:13:19,532 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources
+2019-12-15 11:21:34,589 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:21:34,591 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-15 11:21:34,592 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-15 11:21:34,597 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 11:21:34,597 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/aamershaikh/Documents/MyKitchenSink/restful-web-services-with-hateoas/src/test/resources

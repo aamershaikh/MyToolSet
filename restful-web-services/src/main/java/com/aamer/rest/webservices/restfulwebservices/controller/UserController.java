@@ -33,13 +33,14 @@ public class UserController {
 
 	// getOneUsers
 	// error handling if user is not found, it should return a 404 http status
-	// code
+	// code.
 	@GetMapping(path = "/users/{id}")
 	public User getOneUser(@PathVariable int id) {
 		User user = userService.getOneUser(id);
 		if (user == null) {
 			throw new UserNotFoundException("Not Found");
 		}
+		
 		return user;
 	}
 
