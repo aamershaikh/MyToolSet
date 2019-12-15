@@ -43,7 +43,7 @@ public class UserService {
 		return null;
 	}
 	
-	//deleteOneUser
+	//getOneUser
 	public User deleteOneUser(int id){
 		for (User user : userList) {
 			if(user.getUserid() == id) {
