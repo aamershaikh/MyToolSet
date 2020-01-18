@@ -31,5 +31,6 @@ Every machine has its own local repo. Dev make change in the the local repo and 
 		"git commit "
 		
 3) to commit the changes to github
-		
+	git push --set-upstream origin master OR
+	git push -origin
 	
